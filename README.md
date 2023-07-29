@@ -1,2 +1,2 @@
 # logical-programs
-List of all programs helped to crack coding interviews
+List of all programs to improve analytical thinking ability
